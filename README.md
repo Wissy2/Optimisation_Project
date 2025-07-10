@@ -24,7 +24,9 @@ This project compares the performance of various optimization algorithms — **A
 
 ```
 ├── Bert_optimisation.py     # BERT fine-tuning on SST-2 with optimizer comparison
+├── bert-optimisation.ipynb  # Notebook with results of BERT fine-tuning on SST-2 with optimizer comparison               
 ├── Gpt_optimisation.py      # GPT-2 fine-tuning on SQuAD with optimizer comparison
+├── gpt-optimisation.ipynb   # Notebook with results of GPT fine-tuning on SST-2 with optimizer comparison
 ├── README.md                # This file
 ```
 
@@ -82,7 +84,7 @@ Both scripts export an Excel file with:
 - Answer extraction in GPT-2 is simplified for efficiency and could be further refined  
 - Both models are limited to a subset of the full datasets to ensure quick comparison
 
-## 🙋‍♀️ Author
+## 🙋‍♀️ Authors
 
 - Wissal HANAOUI
 - Imane IDBALI
